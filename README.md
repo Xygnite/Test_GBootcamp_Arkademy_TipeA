@@ -1,4 +1,4 @@
-# Test_GrandBootcamp_Arkademy
+# Test GrandBootcamp Arkademy
 
 Untuk menjalankan seluruh file dalam git ini, install XAMPP pindahkan semuanya ke direktori "C:\xampp\htdocs\test_arkademy", buka browser internet lalu masukkan "localhost/test_arkademy/" diikuti dengan nama file yang akan di buka.
 
